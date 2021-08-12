@@ -1,2 +1,1 @@
-# First
-add and remove
+this is my first git
